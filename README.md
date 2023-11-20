@@ -1,6 +1,6 @@
 # Marine mammal observation logging and GPS tracking with python
 
-This python code to generates a PyQt5 GUI for marine mammal observation logging and GPS tracking. It was developed for visual surveys of marine mammal abundance using a windows touchscreen PC or tablet. But it can also be used with out a touchpad.
+This python code to generates a PyQt5 GUI for marine mammal observation logging and GPS tracking. It was developed for visual surveys of marine mammal abundance using a windows touchscreen PC or tablet. But it can also be used with out a touchpad. Wntries can be corrcetd or removed during the logging.
 
 
 ![](mmgui1.JPG)
