@@ -22,7 +22,18 @@ Happy sightings!
 
 Connect the external GPS unit to your computer or tablet.
 
-Start the program by running mmobs_logger.exe or the mmobs_logger.py script (if you have python installed). If python packages are missing install the using pip. 
+Start the program by running mmobs_logger.exe or the mmobs_logger.py script (if you have python installed). If python packages are missing install the using pip. Or install it via pip:
+
+```
+pip install mmobs_logger
+```
+
+and start it from a python shell like this:
+
+```python
+from mmobs_logger import ui
+ui.start()
+```
 
 At first the program will ask you for a list of species you expect to observe. By clicking onto fields in the table you can change the text. This list will only be editable here, restart the program if you want to add more species or write the species name in the comment line. 
 
