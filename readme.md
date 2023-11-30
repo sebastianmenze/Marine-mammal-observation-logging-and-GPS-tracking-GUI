@@ -1,6 +1,6 @@
 # Marine mammal observation logging and GPS tracking with python
 
-This python script (or compiled windows exe) generates a PyQt5 user interface for marine mammal observation logging and GPS tracking. It was developed for visual surveys of marine mammal abundance using a windows touchscreen PC or tablet. But it can also be used without a touchpad. Entries can be corrected or removed during the logging.
+This python script generates a PyQt5 user interface for marine mammal observation logging and GPS tracking. It was developed for visual surveys of marine mammal abundance using a windows touchscreen PC or tablet. But it can also be used without a touchpad. Entries can be corrected or removed during the logging. You can download it as compield windows exe in the relases on thr right side of this website.  
 
 ![](setup.png)
 
