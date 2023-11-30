@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/721151158.svg)](https://zenodo.org/doi/10.5281/zenodo.10228669)
+
 # Marine mammal observation logging and GPS tracking with python
 
 This python script generates a PyQt5 user interface for marine mammal observation logging and GPS tracking. It was developed for visual surveys of marine mammal abundance using a windows touchscreen PC or tablet (300-500 Euro). But it can also be used without a touchpad. Entries can be corrected or removed during the logging. You can download it as compiled windows exe in the relases on the right side of this website.  
